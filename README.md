@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DavidNoorcahya
-- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, SQL and Machine Learning
 - 📫 Reach me via email dnoorcahya@gmail.com
 
